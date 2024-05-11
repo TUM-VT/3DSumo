@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7812463144020822505
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bike road material
+  m_Shader: {fileID: -6465566751694194690, guid: 365601c890f60b249acce27a718fd862, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_44beb7d387b249e48518ca9002fe5637_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9912be0d0992b9444b72f4145b0e04a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _Outer_line_distance: 0.5
+    - _Outer_line_length: 1
+    - _Outer_line_width: 0.02
+    - _Repetition: 1
+    m_Colors:
+    - _Outer_line_color: {r: 0.6901961, g: 0.6901961, b: 0.6901961, a: 1}
+    - _Road_color: {r: 1, g: 0.3066038, b: 0.61955243, a: 0.65882355}
+    - _Road_multiplier: {r: 9.42, g: 3.32, b: 2.81, a: 0}
+  m_BuildTextureStacks: []
